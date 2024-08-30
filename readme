@@ -1,16 +1,19 @@
-3번째 프로젝트 : 자기소개서 분석
+Cover Letter Analysis : Machine Learning Project
 
--머신러닝-
+[Overview]
 
-[개요]
+[Process]
 
-[프로세스]
+[Current Progress]
 
-[현재 진행 과정]
-
-1. 크롤링
-2. 한국어 → 영어 번역 (네이버 파파고 이용)
-3. EDA
-4. 분류 모델
-5. 회귀 모델
-6. 홈페이지 제작(배포)
+1. Crawled the URLs of IT and data job cover letters with expert ratings from the Job Korea site (https://www.jobkorea.co.kr/starter/passassay).
+2. Crawled the cover letter texts using the URLs collected.
+3. Applied Doc2Vec to the crawled cover letters.
+4. Created a classification model using language vectorization.
+5. Created a regression model.
+6. Translated the crawled cover letters using Naver Papago (https://papago.naver.com/).
+7. Processed and visualized (EDA) the translated cover letters.
+8. Created a classification model using language vectorization.
+9. Created a regression model.
+10. Developed a web application and deployed it using FastAPI.
+11. Web page URL: https://essay-classifier.onrender.com/
