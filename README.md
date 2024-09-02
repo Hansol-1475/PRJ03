@@ -18,6 +18,6 @@ Cover Letter Analysis Project: Machine Learning Project
 6\. Translated the crawled cover letters using Naver Papago (https://papago.naver.com/)  (Completed)  
 7\. Processed and visualized (EDA) the translated cover letters  (Completed)  
 8\. Created a classification model using language vectorization  (Completed)  
-9\. Created a regression model  (Completed)
+9\. Created a regression model  (Completed)  
 10\. Developed a web application and deployed it using FastAPI  (Completed)  
 11\. Web page URL: https://essay-classifier.onrender.com/  (Completed)  
