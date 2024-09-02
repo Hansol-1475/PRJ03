@@ -2,7 +2,11 @@ Cover Letter Analysis Project: Machine Learning Project
 
 \[Overview\]
 
+![스크린샷 2024-09-03 041911](https://github.com/user-attachments/assets/08d11553-7808-4cac-846f-de3d8b731f86)
+
 \[Process\]
+
+![스크린샷 2024-08-24 000943](https://github.com/user-attachments/assets/dc9d2194-61a8-40c0-b2ce-16e2988d1aa5)
 
 \[Current Progress\]
 
